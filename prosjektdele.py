@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr 10 18:14:53 2025
-
-@author: SEFO
 """
 # =============================================================================
 # Supportvaktene i MORSE er delt inn i 2-timers bolker: kl 08-10, kl 10-12, kl 12-14 og kl 14-16. 
